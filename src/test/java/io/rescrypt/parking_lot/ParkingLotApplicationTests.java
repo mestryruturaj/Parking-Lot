@@ -1,4 +1,4 @@
-package com.rescrypt.io.parking_lot;
+package io.rescrypt.parking_lot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

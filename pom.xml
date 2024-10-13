@@ -8,7 +8,7 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.rescrypt.io</groupId>
+	<groupId>io.rescrypt</groupId>
 	<artifactId>parking-lot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Parking Lot</name>

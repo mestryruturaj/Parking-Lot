@@ -1,4 +1,4 @@
-package com.rescrypt.io.parking_lot;
+package io.rescrypt.parking_lot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
