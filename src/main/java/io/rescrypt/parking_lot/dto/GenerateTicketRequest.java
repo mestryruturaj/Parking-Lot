@@ -1,10 +1,12 @@
-package io.rescrypt.parking_lot.model;
+package io.rescrypt.parking_lot.dto;
 
 import io.rescrypt.parking_lot.enums.VehicleType;
 import lombok.Data;
 
 @Data
-public class Vehicle extends BaseModel {
+public class GenerateTicketRequest {
+    private Long gateId;
+    private Long vehicleId;
     private VehicleType vehicleType;
     private String numberPlate;
 }
